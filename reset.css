@@ -1,0 +1,14 @@
+/*!
+ *
+ * CSS reseter in JS by nousantx
+ *
+ * copyright (c) normalize.css by necolas
+ *
+ */
+:root {
+}
+
+::-webkit-file-upload-button {
+  -webkit-appearance: button; /* 1 */
+  font: inherit; /* 2 */
+}

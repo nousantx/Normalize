@@ -1,0 +1,28 @@
+{
+  "name": "@tenoxui/reset",
+  "description": "CSS Normalize using Javascript",
+  "version": "1.0.0",
+  "main": "normal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nousantx/Normalize.git"
+  },
+  "keywords": [
+    "css",
+    "reset",
+    "normalize"
+  ],
+  "author": "nousantx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nousantx/Normalize/issues"
+  },
+  "homepage": "https://github.com/nousantx/Normalize#readme",
+  "dependencies": {
+    "tenoxui": "^0.5.0"
+  },
+  "devDependencies": {}
+}
