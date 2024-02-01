@@ -1,8 +1,9 @@
 {
   "name": "@tenoxui/reset",
   "description": "CSS Normalize using Javascript",
-  "version": "1.0.0",
-  "main": "normal.js",
+  "version": "1.0.1",
+  "main": "reset.min.js",
+  "style": "reset.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -5,10 +5,14 @@
  * copyright (c) normalize.css by necolas
  *
  */
+
 :root {
+  --tx_border-box: border-box;
+  --tx_content-box: content-box;
+  --tx_list-item: list-item;
 }
 
 ::-webkit-file-upload-button {
-  -webkit-appearance: button; /* 1 */
-  font: inherit; /* 2 */
+  -webkit-appearance: button;
+  font: inherit;
 }
